@@ -36,9 +36,9 @@
 
 ## 🤝 Let’s Connect  
 
-- 💼 GitHub: https://github.com/YOUR_USERNAME  
-- 📧 Email: your-email@example.com  
+- 💼 GitHub:https://github.com/YashGawade
+- 📧 Email: yashgavde9@gmail.com
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*  
+
