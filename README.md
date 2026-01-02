@@ -13,33 +13,6 @@
 - 🎯 Goal: Become the **best version of myself** and build impactful tech solutions
 
 ---
-
-## 🛠️ Tech Stack  
-
-### 💻 Programming Languages  
-- Java  
-- JavaScript  
-- C / C++ (Basics)  
- 
-### 🌐 Web Development  
-- HTML5  
-- CSS3  
-- JavaScript  
-- Node.js  
-- Express.js  
-
-### 🗄️ Databases  
-- MySQL  
-- MongoDB (Basics)  
-
-### ⚙️ Tools & Platforms  
-- Git & GitHub  
-- VS Code  
-- Maven  
-- Apache Tomcat  
-- Postman  
-
----
 ### 🛠️ Languages and Tools
 
 <p align="left">
