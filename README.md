@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me  
 
 - 🎓 Student passionate about **Computer Science & Software Development**
-- 🌱 learning **Java, Node.js, and AI fundamentals**
+- 🌱 **Java, Node.js, C++ and AI fundamentals**
 - 🧠 Interested in **problem-solving, backend development, and intelligent systems**
 - 🏗️ Working on real-world projects to strengthen **practical skills**
 - 🎯 Goal: Become the **best version of myself** and build impactful tech solutions
