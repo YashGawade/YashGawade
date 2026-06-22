@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me  
 
 - 🎓 Student passionate about **Computer Science & Software Development**
-- 🌱 **Java, Node.js, C++, DotNet and AIML fundamentals**
+- 🌱 **Java, Sql, Node.js, C++, DotNet and AIML fundamentals**
 - 🧠 Interested in **problem-solving, backend development, and intelligent systems**
 - 🏗️ Working on real-world projects to strengthen **practical skills**
 - 🎯 Goal: Become the **best version of myself** and build impactful tech solutions
